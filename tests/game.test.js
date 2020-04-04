@@ -111,7 +111,6 @@ describe("Game", () => {
             const game = new Game(START_OF_SPRING, new FakeRiverFactory(fakeRiver))
             game.nextDay()
             assertEqual(fakeRiver.calls.length, 1)
-            assertEqual(fakeRiver.calls[0], 0)
         })
     })
 })

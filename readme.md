@@ -1,6 +1,6 @@
 # Flood defense game
 
-The idea is tot teach about systems thinking by getting people to understand causal links and feedback loops.
+The idea is to teach about systems thinking by getting people to understand causal links and feedback loops.
 
 ## Rules
 
